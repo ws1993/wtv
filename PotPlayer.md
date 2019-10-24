@@ -3,8 +3,9 @@ https://daumpotplayer.com/download/
 
 # 打开PotPalyer
 
-1. 右键 ---> 打开 ---> 打开链接 ---> 粘贴.m3u 格式的网址 ---> 确认
-2. ctrl + s 保存到本地
+右键下载的直播源文件 --> 打开方式 --> potplayer
+
+[https://github.com/biancangming/wtv/raw/master/PotPlayerIMG/pot1.png](https://github.com/biancangming/wtv/raw/master/PotPlayerIMG/pot1.png)
 
 这样在播放器右侧出现节目列表
 
