@@ -1,6 +1,3 @@
-```
-！！！每天分享电视直播源、破解软件、小姐姐直播加微信号：bianbingdang123
-```
 
 > 一群收费开放中....
 
@@ -40,6 +37,8 @@
 # 最新IPTV直播源m3u8下载，电视直播网站推荐
 
 - [https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐)
+
+- [BEATSING Drama 必勝影視 含港澳、外等](https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1)
 
 # m3u8播放方法
 
