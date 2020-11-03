@@ -39,6 +39,10 @@
 
 - [BEATSING Drama 必勝影視 含港澳、外等](https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1)
 
+# github 相关项目推荐
+
+1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
+
 # m3u8播放方法
 
 - PotPlayer播放方式参考 [https://github.com/biancangming/wtv/blob/master/PotPlayer.md](https://github.com/biancangming/wtv/blob/master/PotPlayer.md)
