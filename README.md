@@ -42,6 +42,7 @@
 # github 相关项目推荐
 
 1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
+2. 移动直播源汇总 https://github.com/SPX372928/MyIPTV
 
 # m3u8播放方法
 
