@@ -39,6 +39,8 @@
 
 - [BEATSING Drama 必勝影視 含港澳、外等](https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1)
 
+- [一键管理iptv脚本] https://github.com/woniuzfb/iptv
+
 # github 相关项目推荐
 
 1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
