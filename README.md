@@ -52,6 +52,7 @@
 - PotPlayer播放方式参考 [https://github.com/biancangming/wtv/blob/master/PotPlayer.md](https://github.com/biancangming/wtv/blob/master/PotPlayer.md)
 
 # m3u 批量检测脚本
-https://github.com/biancangming/wtv/tree/master/m3uMaker
+
+- https://github.com/biancangming/wtv/tree/master/m3uMaker
 
 
