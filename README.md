@@ -46,6 +46,7 @@
 1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
 2. 移动直播源汇总 https://github.com/SPX372928/MyIPTV
 3. 10086IPTV https://github.com/sheng007/10086-IPTV
+4. 标准移动直播源 https://github.com/SPX372928/MyIPTV
 
 # m3u8播放方法
 
