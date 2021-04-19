@@ -3,9 +3,17 @@
 
 [点击链接加入群聊【wtv交流群】，等级低于一个太阳谢绝入内](https://qm.qq.com/cgi-bin/qm/qr?k=xdOuWd8gz2OHO5zY_jvjwzwj-fb_7O2I&jump_from=webapi)
 
-> [此处是广告]软件开发者爱好者的福音,小额红包即可帮你找到JAVA、python相关电子书籍、音视频资料。联系QQ 86502744
+> [预告]最近在开发一款PC端的观看客户端，目前处于自玩阶段，详细加Q群查看
 
 > 长期更新，建议收藏本页面，资源来源网络，可用性未逐一验证，尽可能保证大多资源可用。
+
+# 最新IPTV直播源m3u8下载，电视直播网站推荐
+
+- [https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐)
+
+- [BEATSING Drama 必勝影視 含港澳、外等](https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1)
+
+- [一键管理iptv脚本] https://github.com/woniuzfb/iptv
 
 # 看TV网站合集
 
@@ -33,20 +41,13 @@
 
 3. 黑鸟播放器（民间，自带源）  https://guihet.com/blackbird-player.html
 
-# 最新IPTV直播源m3u8下载，电视直播网站推荐
-
-- [https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐)
-
-- [BEATSING Drama 必勝影視 含港澳、外等](https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1)
-
-- [一键管理iptv脚本] https://github.com/woniuzfb/iptv
-
 # github 相关项目推荐
 
 1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
 2. 移动直播源汇总 https://github.com/SPX372928/MyIPTV
 3. 10086IPTV https://github.com/sheng007/10086-IPTV
 4. 标准移动直播源 https://github.com/SPX372928/MyIPTV
+5. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
 
 # m3u8播放方法
 
