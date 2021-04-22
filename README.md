@@ -48,6 +48,7 @@
 3. 10086IPTV https://github.com/sheng007/10086-IPTV
 4. 标准移动直播源 https://github.com/SPX372928/MyIPTV
 5. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
+6. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
 
 # m3u8播放方法
 
