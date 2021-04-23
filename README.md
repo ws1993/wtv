@@ -15,6 +15,16 @@
 
 - [一键管理iptv脚本] https://github.com/woniuzfb/iptv
 
+# github 相关项目推荐
+
+1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
+2. 移动直播源汇总 https://github.com/SPX372928/MyIPTV
+3. 10086IPTV https://github.com/sheng007/10086-IPTV
+4. 标准移动直播源 https://github.com/SPX372928/MyIPTV
+5. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
+6. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
+7. m3ulist有小姐姐，https://github.com/snow922841/m3ulist
+
 # 看TV网站合集
 
 - https://github.com/biancangming/wtv/wiki/TV直播网站合集
@@ -41,14 +51,6 @@
 
 3. 黑鸟播放器（民间，自带源）  https://guihet.com/blackbird-player.html
 
-# github 相关项目推荐
-
-1. 北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
-2. 移动直播源汇总 https://github.com/SPX372928/MyIPTV
-3. 10086IPTV https://github.com/sheng007/10086-IPTV
-4. 标准移动直播源 https://github.com/SPX372928/MyIPTV
-5. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
-6. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
 
 # m3u8播放方法
 
