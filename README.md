@@ -1,5 +1,5 @@
 
-> QQ群收费开放中....
+> QQ群免费开放中....
 
 [点击链接加入群聊【wtv交流群】，等级低于一个太阳谢绝入内](https://qm.qq.com/cgi-bin/qm/qr?k=xdOuWd8gz2OHO5zY_jvjwzwj-fb_7O2I&jump_from=webapi)
 
@@ -24,21 +24,9 @@
 7. m3ulist有小姐姐，https://github.com/snow922841/m3ulist
 8. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
 
-# 安卓/盒子软件合集
+# 安卓/盒子软件
 
-1. https://www.lanzous.com/b699768/  密码:987456
-
-2. http://pan.bianbingdang.com/dir/12264526-36211761-271fc7 密码: bbda
-
-3. [中华电信/电脑/移动版, 需要梯子](http://mod.cht.com.tw/support/download/app/) 
-
-4. youtube电视版软件 https://smartyoutubetv.github.io/#releases-section
-
-5. ~~https://www.lanzous.com/b733662/~~
-
-6. https://www.lanzous.com/b0jrkv4b
-
-7. BEATSING Drama 必勝影視直播源 含港澳 https://beatsingdrama.blogspot.com/p/xt-playlist-txt.html?m=1
+1. youtube电视版软件 https://smartyoutubetv.github.io/#releases-section
 
 # PC直播源软件推荐
 
