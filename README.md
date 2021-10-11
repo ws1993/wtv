@@ -24,8 +24,7 @@
 3. 10086IPTV https://github.com/sheng007/10086-IPTV
 4. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
 5. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
-6. m3ulist有小姐姐，https://github.com/snow922841/m3ulist
-7. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
+6. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
 
 # PC直播源软件推荐
 
