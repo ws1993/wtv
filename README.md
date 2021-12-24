@@ -1,5 +1,5 @@
 
-## 喜欢电报的来这里，https://t.me/joinchat/xktfH924PUNmZWJl。好久没更新了，喜欢的来这里，暂时还没什么人
+### 喜欢电报的来这里，https://t.me/joinchat/xktfH924PUNmZWJl。好久没更新了，喜欢的来这里，暂时还没什么人
 
 > QQ群免费开放中....
 
@@ -7,7 +7,7 @@
 
 > 长期更新，建议收藏本页面，资源来源网络，可用性未逐一验证，尽可能保证大多资源可用。
 
-# 最新IPTV直播源m3u8下载，电视直播网站推荐
+# 最新IPTV直播源m3u8下载，电视直播网站推荐，原则上以中文频道为主
 
 - [https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐](https://github.com/biancangming/wtv/wiki/最新IPTV直播源m3u8下载，电视直播网站推荐)
 
