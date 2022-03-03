@@ -27,6 +27,7 @@
 4. 世界IPTV库, 内容全： https://github.com/iptv-org/iptv
 5. IPTVM3U,  https://github.com/Sphinxroot/IPTVM3U
 6. [一键管理iptv脚本] https://github.com/woniuzfb/iptv
+7. [iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 # PC直播源软件推荐
 
