@@ -1,6 +1,3 @@
-
-### 喜欢电报的来这里，https://t.me/joinchat/xktfH924PUNmZWJl。好久没更新了，喜欢的来这里，暂时还没什么人
-
 > QQ群免费开放中....
 
 [点击链接加入群聊【wtv交流群】，等级低于一个太阳谢绝入内](https://qm.qq.com/cgi-bin/qm/qr?k=xdOuWd8gz2OHO5zY_jvjwzwj-fb_7O2I&jump_from=webapi)
