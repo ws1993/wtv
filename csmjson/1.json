@@ -2,7 +2,7 @@
     {
         "name": "非凡影视",
         "url": "http://cj.ffzyapi.com/api.php/provide/vod/",
-        "jx": "https://subojiexi.com/play/?url="
+        "jx": "https://ffzyplayer.com/?url="
     },
     {
         "name": "量子资源",
@@ -85,11 +85,6 @@
         "jx": ""
     },
     {
-        "name": "土剧TV(优)",
-        "url": "http://tujutv.top/api.php/provide/vod/",
-        "jx": ""
-    },
-    {
         "name": "考拉TV(优)",
         "url": "https://ikaola.tv/api.php/provide/vod/",
         "jx": ""
@@ -105,8 +100,8 @@
         "jx": ""
     },
     {
-        "name": "橘猫影视(聚)",
-        "url": "http://www.zitv.cc/api.php/provide/vod/",
-        "jx": ""
+        "name": "天空资源网",
+        "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8",
+        "jx": "https://jx.huishij.com/yun/?url="
     }
 ]
